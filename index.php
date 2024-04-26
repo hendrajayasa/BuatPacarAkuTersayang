@@ -1,6 +1,4 @@
 
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   
@@ -206,7 +204,6 @@
   <!-- Footer -->
   <footer class="footer">
       <p class="mt-3 mb-3 text-center">2024 Copyright by Hendra Jayasa. All rights reserved. </p>
-    </div>
   </footer>
   <!-- End Footer -->
   
